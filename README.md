@@ -141,17 +141,6 @@ brick-breaker/
 
 ---
 
-## 🚀 Future Enhancements
-
-- [ ] Add sound effects and background music
-- [ ] Implement more power-up types
-- [ ] Add difficulty settings
-- [ ] Create level editor
-- [ ] Add particle effects for brick destruction
-- [ ] Implement leaderboard with player names
-
----
-
 ## 🐛 Known Issues
 
 - None currently reported! If you find any, please create an issue.
